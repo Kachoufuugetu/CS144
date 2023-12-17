@@ -8,6 +8,7 @@
 #include <netdb.h>
 #include <stdexcept>
 #include <system_error>
+#include <array> // must be included to avoid error
 
 using namespace std;
 
